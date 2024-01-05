@@ -4,6 +4,7 @@ public class MyFirstProgram {
 		
 		System.out.println("Hello, World!");
 		System.out.println("QAQQA");
+		System.out.println("AAAAA");
 
 	}	
 	
